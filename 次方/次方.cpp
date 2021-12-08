@@ -6,7 +6,7 @@
 int main()
 {
     int a = 0, b = 0, ans = 0, c = 0;
-    std::cout << "請輸入1~10\n";
+    std::cout << "請輸入2~10\n";
     std::cin >> a;
     std::cout << "這是一個告訴我們" << a << "的幾次方會超過10000多少的程式。\n\n";
     while (ans < 10000)
